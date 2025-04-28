@@ -14,7 +14,7 @@ int main(){
     {
         cout<<"a is near to 100 than b";
     } 
-    else if (a>100 && b<=100);{
+    else if (a>100 && b<=100){
         cout<<"b is near to 100 than a is";
 
     }
